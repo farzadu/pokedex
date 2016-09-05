@@ -96,7 +96,7 @@
 				TargetAttributes = {
 					CB61E8981D7DDC3B00880A33 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = T7LXY83FJ4;
+						DevelopmentTeam = 5Y36AHZD94;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -261,7 +261,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T7LXY83FJ4;
+				DEVELOPMENT_TEAM = 5Y36AHZD94;
 				INFOPLIST_FILE = pokedex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.foggystudio.pokedex;
@@ -274,7 +274,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = T7LXY83FJ4;
+				DEVELOPMENT_TEAM = 5Y36AHZD94;
 				INFOPLIST_FILE = pokedex/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.foggystudio.pokedex;
