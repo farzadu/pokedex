@@ -21,7 +21,7 @@ class PokeCell: UICollectionViewCell {
         layer.cornerRadius = 10.0
     }
     
-    func configCell(pokemon: Pokemon){
+    func configCell(_ pokemon: Pokemon){
         self.pokemon = pokemon
         
         thumbImg.image = UIImage(named: "\(self.pokemon.pokemonId)")
